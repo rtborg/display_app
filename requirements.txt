@@ -1,0 +1,6 @@
+Pillow
+numpy
+spidev
+smbus2
+bme280
+RPi.GPIO
